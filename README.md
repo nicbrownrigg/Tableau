@@ -1,1 +1,35 @@
-# Tableau
+# Tableau Challenge
+## Overview
+
+The purpose of this challenge is to utilize tableau in order to convince investors that the bike sharing business that we have created as a solid business proposal through our analysis of customer data. Will utilize darn customer data to create various visualizations in tableau that makes it easy to comprehend the scale of our bike sharing business, as well as areas where we can focus our efforts in terms of advertising, commercialization, and obtaining market share. Through doing so, I would hope that investors would be more likely to understand the amount of opportunity an investment in our company would offer them and view us as a low risk investment for their portfolios.
+
+## Results
+
+Here's the link to my Tableau Public:[link to dashboard](https://public.tableau.com/views/TableauChallenge_16320288543750/CustomerBreakdown?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+After analyzing the data we have created a few different visualizations that I would feel would be interesting to look at in terms of investment potential for the company and levels of success.
+
+These first visualization: Customer Breakdown, breaks down our customer base and our concentration of customers in New York. As you can see yearly we see about 2.3 million trips taken through our NYC city bike service with about 1.53 million of those being men. You can also see that our peak hours of the day tend to be around 8 AM, 5 PM and 6 PM for when people like to check out our bicycles as seen on the graph below the gender breakdown. Moving onto the starting and ending location concentrations you can see that we are heavily concentrated on Manhattan Island primarily in the southside, with a huge cluster of trips around 16,000 per bubble showing up around the Union Square area. However we can see there’s a mass clustering of them moving from that area all the way down to the south near the financial district and all the way up towards Central Park. We can also see that Long Island, Greenpoint/Williamsburg and Dumbo/Downtown Brooklyn have smaller but still substantial customer bases as well. I would say that there’s evidence here that we are a substantial presence in the New York area of in terms of bike sharing, there is a huge revenue and growth potential for our services throughout the New York City area. I would say with these numbers there’s a refutable evidence of our company success with securing a good chunk of the cities market share. 
+### Customer Breakdown:
+![Customer Breakdown](https://github.com/nicbrownrigg/Tableau/blob/main/images/Customer%20Breakdown.png)
+
+Moving on, to give you some ideas on what these rideshares typically tend to look like, the Checkout Times tab shows a majority of our customer base seems to generally rent bikes out from between 0 to 20 minutes tapering down towards 50 minutes at the maximum. As you can see with this trip duration graph of the entire user base majority of these trips seem to be around 10 minutes. However if we move on to the version of this graph broken down by gender, we can see that the male customer base very closely reflects our general customer graph. However, female trips seem to extend out a little bit longer as well as the unknown gender appears to be expanding out  towards 20 minutes with a plateau between 10 to 20 minutes. However, all groups appear to taper off near the 35 to 45 minute mark. From this day that we can infer that the majority of our customer base regardless of gender tends to prefer 10 to 20 minute ride shares of our bikes. 
+### Customer Times by User:
+![Customer Times by User](https://github.com/nicbrownrigg/Tableau/blob/main/images/Checkout%20Times%20General.png)
+
+### Customer Times by Gender:
+![Customer Times by Gender](https://github.com/nicbrownrigg/Tableau/blob/main/images/Checkout%20Times%20Gender.png)
+
+Moving onto our third story: Amount of Trips Breakdown, in the tableau visualizations, we can see three different heat maps to visualize the concentrations of when we see the most uses throughout the week. Without breaking it down into any specific groups it appears that our major hot zones reflect that original statement from our first visualization that we have an 8 AM, and 5 PM and 6 PM hot zone. However, we can see if there’s an incredibly high used case in the 5 to 6 PM slots especially on Thursday with another hotspot showing up around 8 AM however during Saturday starting around 11 AMas well as a majority of Fridays afternoon and some of Thursday’s afternoon we can see a pretty decent hotspot that wasn’t picked up in the original visualization. If we move onto the next one we can see that a lot of the female ridersharers we have, seem to be a large majority of that Saturday slot whereas the male graph appears to reflect pretty similarly to the general heat map. So we can infer that we have a much higher concentration of female riders utilizing these weekend slots especially on Saturday where is a lot of our mail riders seem to be reflective of a commuter type timeframe for our bikes. And we can move this on to the next heat map or we can see the amount of subscribers versus customers and what day is they show the most activity and we can actually see, surprisingly enough for majority of our clientele is subscriber base for our program. The only decent amount of shading we see in the customer base appears to be in the unknown category which can’t show up in the subscribers because they don’t have an account with us, And some slight male activity from the customer base on Saturdays. This would fall in line with our original gender based inference. Because while our customer base is a male majority, A majority of our regular customers could be considered commuters for a ride share program and I’m sure that the blip we’re seeing for male clientele on Saturdays is probably tourists.
+### Amount of Trips by User:
+![Amount of Trips by User](https://github.com/nicbrownrigg/Tableau/blob/main/images/Amount_Of_Trips_Gen.png)
+
+### Amount of Trips by Gender:
+![Amount of Trips by Gender](https://github.com/nicbrownrigg/Tableau/blob/main/images/Amount_Of_Trips_Gender.png)
+
+### Amount of Trips by Gender and Customer Type:
+![Amount of Trips by Customer Type](https://github.com/nicbrownrigg/Tableau/blob/main/images/Amount_Of_Trips_CusType.png)
+
+## Summary
+
+I would have to say that after going through our data and how well we can see that there is a large amount of potential for this company. We have 2.344 million ride shares annually for our bike program and a large amount of them are repeat clientele and subscribers as we can see throughout our visualizations. We can also see that we have a huge client base on Manhattan and a lot of smaller clusters that have potential to grow near the bridges in New York City. I would have to say that this company is showing signs of worthwhile investment for people who want to have a high growth company built around a stable clientele of subscribers who utilize our service primarily for commuting to work but also is capturing a section of the tourism market.
